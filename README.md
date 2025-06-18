@@ -16,10 +16,10 @@ I’m eager to deepen my expertise in **backend programming** to become a **full
 - **Version Control:** Git, GitHub
 
 ## 📁 Projects
-- 🌐 **[Multi-page CV Website](https://github.com/Nathan-Francis/CV-website)** – Designed a personal CV website using HTML, CSS, and JavaScript to showcase my skills and experiences.
-- 💰 **[Sales Banking System](https://github.com/Nathan-Francis/sales-system)** – A Java-based system managing customer transactions, purchases, refunds, and products while utilizing key object-oriented programming concepts.
-- 🎮 **[2D Platformer Game](https://github.com/Nathan-Francis/2d-platformer-game)** – A Mario-style scrolling game built with JavaScript and the p5.js library, featuring coin collection, canyons, a life counter, and a win/lose screen.
-- 🦆 **[Goose Chase Game](https://github.com/Nathan-Francis/goose-game-pde)** – Created in Processing, this game challenges players to escape chasing red dots while avoiding spawning hazards.
+- 🌐 **[Multi-page CV Website](https://github.com/Nathan-Francis/CV-website)** – Designed a personal CV website using HTML, CSS, and JavaScript.
+- 💰 **[Sales Banking System](https://github.com/Nathan-Francis/sales-system)** – A Java-based system managing customer transactions, purchases, refunds, and products.
+- 🎮 **[2D Platformer Game](https://github.com/Nathan-Francis/2d-platformer-game)** – A Mario-style side-scrolling game built with JavaScript and the p5.js library.
+- 🦆 **[Goose Chase Game](https://github.com/Nathan-Francis/goose-game-pde)** – Created in Processing, challenges players to escape chasing objects while avoiding spawning hazards.
 - ⚔️ **Real-Time Strategy Game** – Built in Unity using C#, this RTS features resource collection, army-building, enemy waves, and a dynamic game-flow system for immersive gameplay.
 
 ## 📫 Contact Me
