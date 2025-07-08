@@ -21,6 +21,7 @@ I’m eager to deepen my expertise in **backend programming** to become a **full
 - 🎮 **[2D Platformer Game](https://github.com/Nathan-Francis/2d-platformer-game)** – A Mario-style side-scrolling game built with JavaScript and the p5.js library.
 - 🦆 **[Goose Chase Game](https://github.com/Nathan-Francis/goose-game-pde)** – Created in Processing, challenges players to escape chasing objects while avoiding spawning hazards.
 - ⚔️ **Real-Time Strategy Game** – Built in Unity using C#, this RTS features resource collection, army-building, enemy waves, and a dynamic game-flow system for immersive gameplay.
+- 🗄️ **[Project Management Database](https://github.com/Nathan-Francis/project-management-db)** – A comprehensive SQL database system for managing project resources, pool members, and skill-based assignments.
 
 
 ## 📊 GitHub Stats
