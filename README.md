@@ -24,7 +24,7 @@ I’m eager to deepen my expertise in **backend programming** to become a **full
 - 🗄️ **[Project Management Database](https://github.com/Nathan-Francis/project-management-db)** – A comprehensive SQL database system for managing project resources, pool members, and skill-based assignments.
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Counts public Repo only)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-francis&layout=compact&theme=radical)
 
